@@ -1,54 +1,18 @@
-Freshman21
-==========
+# front cover jekyll theme
 
-Freshman21 is a Jekyll blog theme, base on theme [Freshman](http://github.com/yulijia/freshman). 
-
-A tribute to WordPress Theme Twenty-Twelve and Twenty-eleven.
-
-Enjoy.
+## Why choose this jekyll theme for your front page?
+* You don't have to modify any HTML, everything can be modified in config.yml.
+* Very lightweight. No Javascript, No Bootstrap etc..
+* MIT licensed.
 
 
-![Screen](http://i.imgur.com/oSp7kacl.png)
+## See it in action
+<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
 
-### Version 2.0 update 2015.03.31
+## Credits
+The background image that was used as an example comes from Tom Hall.
+You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
+It's licensed under Creative-Commons.
 
-- master branch: the simplest template, original version.
-
-- gh-pages branch: master branch with google analytics js template, BackToTop js script, readmore module.
-
-Clone master branch: 
-
-` git clone https://github.com/yulijia/freshman21.git -b master --single-branch`
-
-Clone gh-pages branch: 
-
-`git clone https://github.com/yulijia/freshman21.git -b gh-pages --single-branch`
-
-
-
-### How to install this theme?
-
-```
-# please make sure you have already installed git tools and ruby tools(gem)
-$ gem install sass
-$ gem install jekyll
-$ git clone https://github.com/yulijia/freshman21.git
-$ mv freshman21/ yourblogname.github.io/
-```
-
-### A Summary of Features
-
-- Provide single column and two columns layout
-- Powerful configure file
-- Comments by Disqus
-- Support LaTeX (by MathJax)
-- Syntax highlighting
-
-
-### Demo
-
-Single column, please see [my own blog](http://yulijia.net/en/)
-
-Two columns, please see the [theme website](http://yulijia.net/freshman21/)
-
+This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
 
