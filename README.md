@@ -1,53 +1,26 @@
-Freshman21
-==========
+# Microdust 微尘
 
-Freshman21 is a Jekyll blog theme, base on theme [Freshman](http://github.com/yulijia/freshman). 
+This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
 
-A tribute to WordPress Theme Twenty-Twelve and Twenty-eleven.
+## Thanks
 
-Enjoy.
+The blog used many tool/service,many thanks to:
 
+* [Github](https://github.com/), all the data based on;
+* [Git](https://git-scm.com/), blogs and code files version control system;
+* [Jekyll](http://jekyllrb.com/), a static site generator;
+* [Clean Blog Theme](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll), a theme by Start Bootstrap;
+* [Markdown](https://daringfireball.net/projects/markdown/), a beautiful lightweight markup language.
+* [DNSPod](https://www.dnspod.cn/), the DNS service provider who surport the domain name resolution;
+* [Duoshuo](http://duoshuo.com/), a socialization comments plugin.
+* [Google](http://google.com), the one who tell me how to make it.
+* …
 
-![Screen](http://i.imgur.com/oSp7kacl.png)
+## How To Creat A Jekyll Blog
 
-### Version 2.0 update 2015.03.31
+[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
 
-- master branch: the simplest template, original version.
+Build your blog Step by step
+## Just write
 
-- gh-pages branch: master branch with google analytics js template, BackToTop js script, readmore module.
-
-Clone master branch: 
- 
-`git clone https://github.com/yulijia/freshman21.git -b master --single-branch`
- 
-Clone gh-pages branch: 
- 
-`git clone https://github.com/yulijia/freshman21.git -b gh-pages --single-branch`
-
-
-### How to install this theme?
-
-```
-# please make sure you have already installed git tools and ruby tools(gem)
-$ gem install sass
-$ gem install jekyll
-$ git clone https://github.com/yulijia/freshman21.git
-$ mv freshman21/ yourblogname.github.io/
-```
-
-### A Summary of Features
-
-- Provide single column and two columns layout
-- Powerful configure file
-- Comments by Disqus
-- Support LaTeX (by MathJax)
-- Syntax highlighting
-
-
-### Demo
-
-Single column, please see [my own blog](http://yulijia.net/en/)
-
-Two columns, please see the [theme website](http://yulijia.net/freshman21/)
-
-
+Start writing now！
